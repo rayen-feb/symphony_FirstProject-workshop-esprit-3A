@@ -1,2 +1,2 @@
 # symphony_FirstProject
-Symphony first project with java 
+a Symphony  workshop at esprit university  
